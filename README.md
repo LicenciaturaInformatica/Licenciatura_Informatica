@@ -1,6 +1,6 @@
 # Licenciatura en Informática - UNO
 
-A brief description of what this project does and who it's for
+
 
 ## Apuntes Universitarios
 - [📡 Tecnología Aplicada](https://boiled-latency-a3c.notion.site/Tecnolog-a-Aplicada-2ba5ec36884b4e7f8a75190f323caa6a)
