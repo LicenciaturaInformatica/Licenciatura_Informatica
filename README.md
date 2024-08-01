@@ -1,6 +1,9 @@
 # Licenciatura en Informática - UNO
 
+> [!IMPORTANT]
+> *En este documento podrás encontrar mis apuntes universitarios y clases grabadas. A medida que curse la carrera, iré subiendo nuevo contenido.*
 
+> Existe otro repositorio con resúmenes creado por [🤖*Asimov Code*](https://gist.github.com/francopig/483c2941f879668c5dd8599bf47d11df). En dichos archivos van a encontrar otros recursos, **muy bien organizados (videos, parciales y finales resueltos)**, que se complementan a los aquí presentados.  Les recomiendo encarecidamente que vayan y los vean, no tienen desperdicio 😉. 
 
 ## Apuntes Universitarios
 - [📡 Tecnología Aplicada](https://boiled-latency-a3c.notion.site/Tecnolog-a-Aplicada-2ba5ec36884b4e7f8a75190f323caa6a)
