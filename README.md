@@ -10,7 +10,7 @@
 - [📑 Análisis y Producción del Discurso](https://boiled-latency-a3c.notion.site/An-lisis-y-Producci-n-del-Discurso-a986eed83c43430194b0c8f241dc6a45?pvs=4)
 - [📚 Universidad, Ciencia y Sociedad - Materia: en proceso]()
 - [📜 Universidad, Ciencia y Sociedad - Investigación](https://boiled-latency-a3c.notion.site/UCS-Investigaci-n-6d56a316017a46f5b08c02e63ee04c02?pvs=4)
-- [Problemática regional: en proceso]
+- [Problemática regional: en proceso]()
 ### Primer Año
 - [📡 Tecnología Aplicada](https://boiled-latency-a3c.notion.site/Tecnolog-a-Aplicada-2ba5ec36884b4e7f8a75190f323caa6a)
 - [📐 Álgebra y Geometría Analítica: en proceso]()
