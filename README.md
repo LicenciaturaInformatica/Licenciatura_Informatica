@@ -22,6 +22,9 @@
 ### Segundo Año
 - [🍎 Electiva - Nutrición y Dietoterapia](https://boiled-latency-a3c.notion.site/Nutrici-n-y-Dietoterapia-27e6a27df6304eef951ce796bbab7f4d?pvs=4)
 - [📓 Ingeniería de Software](https://boiled-latency-a3c.notion.site/Ingenier-a-en-Software-1-a08cd12b67184332bd154cf1eab72a70?pvs=4)
+## Recursos Varios
+- [😎 Inglés I y II](https://drive.google.com/drive/folders/1jETVL8f7JH4uR01-mrjc8jN5lcHWdmMz?usp=drive_link)
+  
 
 
 ## Clases Grabadas
